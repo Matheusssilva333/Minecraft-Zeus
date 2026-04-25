@@ -5,7 +5,7 @@
 
 const string nome = "";
 
-const string email = ""
+const string email = "";
 
 const string senha = "";
 
