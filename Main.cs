@@ -1,3 +1,5 @@
+// Interface principal do jogo
+
 string nome = "Jogador";
 
 Console.WriteLine("Seja bem vindo ao Minecraft Zeus!");
