@@ -3,11 +3,11 @@
 
 // Tela de boas vindas e cadastro do jogador
 
-const string nome = "";
+string nome = "";
 
-const string email = "";
+string email = "";
 
-const string senha = "";
+string senha = "";
 
 
 
