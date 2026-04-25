@@ -3,11 +3,11 @@
 
 // Tela de boas vindas e cadastro do jogador
 
-string nome = "";
+var nome = "";
 
-string email = "";
+var email = "";
 
-string senha = "";
+var senha = "";
 
 
 
