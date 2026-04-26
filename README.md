@@ -5,3 +5,5 @@ Este projeto tem como objetivo desenvolver um clone do Minecraft para fins acad�
 - Linguagem C#
 - Unity Engine
   
+## ⚠️ Aviso legal
+Este projeto é somente para fins acadêmicos/educativos, Não possui vínculo oficial com o Minecraft ou qualquer outra plataforma comercial de jogos.
