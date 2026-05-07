@@ -1,0 +1,6 @@
+@Minecraft_Zeus_HostAddress = http://localhost:5196
+
+GET {{Minecraft_Zeus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

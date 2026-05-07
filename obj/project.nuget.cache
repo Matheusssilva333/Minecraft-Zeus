@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "BQa6Jtk/xr8=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\OneDrive\\Desktop\\Minecraft\\Minecraft-Zeus\\Minecraft-Zeus.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Não é possível encontrar o pacote Microsoft.AspNetCore.OpenApi. Não existe nenhum pacote com esta ID nas origens: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Desktop\\Minecraft\\Minecraft-Zeus\\Minecraft-Zeus.csproj",
+      "filePath": "C:\\Users\\User\\OneDrive\\Desktop\\Minecraft\\Minecraft-Zeus\\Minecraft-Zeus.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
