@@ -3,7 +3,7 @@ Este projeto tem como objetivo desenvolver um clone do Minecraft para fins acad�
 
 ## Tecnologias a serem utilizadas: 
 - Linguagem C#
-- Unity Engine
+- Monogame (Framework)
   
 ## ⚠️ Aviso legal
 Este projeto é somente para fins acadêmicos/educativos, Não possui vínculo oficial com o Minecraft ou qualquer outra plataforma comercial de jogos.
